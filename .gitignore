@@ -1,0 +1,7 @@
+# Ignore Python cache and common untracked files
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+Untitled.ipynb
+hello.py
+main.py
